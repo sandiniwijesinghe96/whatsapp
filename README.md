@@ -1,8 +1,5 @@
 # WhatsApp
-whatsApp Swag
-
-# Demo 
-https://youtu.be/UQYsVd-rI54
+whatsApp 
 
 # Launch WhatsApp
 - Clone
